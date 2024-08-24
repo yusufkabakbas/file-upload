@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"file-upload-app/internal/fileupload"
+	"file-upload/internal/fileupload"
 )
 
 func main() {

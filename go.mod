@@ -1,4 +1,4 @@
-module file-upload-app
+module file-upload
 
 go 1.22.0
 
